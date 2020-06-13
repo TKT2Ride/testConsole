@@ -19,7 +19,8 @@ namespace IntegerManip
         //• Quit
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hey World");
+            Console.ReadLine();
         }
     }
 }
