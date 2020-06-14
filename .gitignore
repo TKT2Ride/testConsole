@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+IntegerManip/IntegerManip/bin/Debug/IntegerManip.exe
+
+IntegerManip/IntegerManip/obj/Debug/IntegerManip.exe
