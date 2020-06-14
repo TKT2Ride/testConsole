@@ -21,7 +21,7 @@ namespace IntegerManip
         {
             Console.WriteLine("Hey World");
             Console.ReadLine();
-            ////////////////////heyheyehyehh////
+            ////////////////////heyheyehyehh/////////
         }
     }
 }
